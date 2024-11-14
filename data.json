@@ -3,7 +3,7 @@
       "food_name": "Kopi Sanger",  
       "price": 8.99,  
       "rating": 4.5,  
-      "url_image": "https://d1r9hss9q19p18.cloudfront.net/uploads/2023/05/355F64E4-FCF3-4638-87AC-E69D7938B6A5.jpeg"  
+      "url_image": "https://www.jagel.id/api/listimage/v/Sanger-Dingin-0-8575f0308c38ed0a.jpg"  
     },  
     {  
       "food_name": "Americano",  
@@ -15,13 +15,13 @@
       "food_name": "V60",  
       "price": 9.50,  
       "rating": 4.2,  
-      "url_image": "https://d8g5mz6srwlcs.cloudfront.net/original/6530d6948ad69352435889.jpg"  
+      "url_image": "https://d1r9hss9q19p18.cloudfront.net/uploads/2017/07/Hario-V60.jpg"  
     },  
     {  
-      "food_name": "Coffee Lattet",  
+      "food_name": "Coffee Latte",  
       "price": 13.75,  
       "rating": 4.7,  
-      "url_image": "https://assets-pergikuliner.com/spF3lKrefrhEV79t36svkXuQtSY=/fit-in/1366x768/smart/filters:no_upscale()/https://assets-pergikuliner.com/uploads/bootsy/image/7092/latte.jpg"  
+      "url_image": "https://img.freepik.com/premium-photo/creating-latte-art-coffee_908985-22032.jpg"  
     },  
     {  
       "food_name": "Vietnam Drip",  
@@ -63,7 +63,7 @@
       "food_name": "Blue Ocean",  
       "price": 14.25,  
       "rating": 4.5,  
-      "url_image": "https://img-global.cpcdn.com/recipes/2c35768f94051616/400x400cq70/photo.jpg"  
+      "url_image": "https://img.freepik.com/premium-photo/blue-drink-hawaiian-iced-soda-table_51137-4707.jpg"  
     },  
     {  
       "food_name": "Cappuccino",  
@@ -93,7 +93,7 @@
       "food_name": "Matcha",  
       "price": 7.50,  
       "rating": 4.3,  
-      "url_image": "https://cdn.rri.co.id/berita/Aceh_Singkil/o/1720822709335-kandungan-nutrisi-dan-khasiat-matcha-untuk-kesehatan-tubuh/0v07pnqdo8j4044.jpeg"  
+      "url_image": "https://www.nikonekomatcha.com/wp-content/uploads/2021/07/Matcha-cream-cheese-latte-5-683x1024.jpg"  
     },  
     {  
       "food_name": "Long Black",  
@@ -105,7 +105,7 @@
       "food_name": "Hazelnut Latte",  
       "price": 21.99,  
       "rating": 4.8,  
-      "url_image": "hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTBFByH8rE9tP_fNGJ4pRDyGiVHTR7b7ARcQ&s"  
+      "url_image": "https://tyberrymuch.com/wp-content/uploads/2024/03/Hazelnut-Iced-Coffee-Recipe-720x720.jpg"  
     },  
     {  
       "food_name": "Iced Tea",  
@@ -114,9 +114,9 @@
       "url_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7dneTYJKYHWK4-uH-t0kEn0cDnDWOjYQeQ&s"  
     },  
     {  
-      "food_name": "Taro Latte",  
+      "food_name": "Taro",  
       "price": 8.50,  
       "rating": 4.4,  
-      "url_image": "https://media-cdn.tripadvisor.com/media/photo-s/07/4c/98/66/iced-taro-latte.jpg66f15057a4b6"  
+      "url_image": "https://warungpondokmadu.com/wp-content/uploads/2023/05/Taro-Cocktail.jpg"  
     }  
 ]
